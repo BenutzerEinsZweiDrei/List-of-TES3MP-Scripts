@@ -188,7 +188,7 @@
 "feature","0.7.0-alpha","fully functional","stuck","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/stuck/main.lua","nalal","https://github.com/nalal/","unstuck players"
 "roleplay","0.7.0-alpha","fully functional","rpchat","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/rpchat/main.lua","nalal","https://github.com/nalal/","rp chat used on DoR"
 "for-scripters","0.7.0-alpha","fully functional","debugMode","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/debugMode/main.lua","nalal","https://github.com/nalal","set server in debug mdoe"
-"roleplay","0.7.0-alpha","fully functional","crafting","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/basicCrafting/main.lua","nalla",https://github.com/nalal/","basic crafting for roleplay purpose"
+"roleplay","0.7.0-alpha","fully functional","crafting","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/basicCrafting/main.lua","nalla","https://github.com/nalal/","basic crafting for roleplay purpose"
 "public servers","0.7.0-alpha","fully functional","better bans","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/betterBans/main.lua","nlala","https://github.com/nalal/","timed bans"
 "feature","0.7.0-alpha","untested","bankbuddy","https://github.com/nalal/DawnOfResdaynScriptRepo/blob/master/scripts/custom/bankBuddy/main.lua","nala","https://github.com/nalal/","script is intended to work as banking system"
 "interaction","0.7.0-alpha","fully functional","simpleRevive","https://gitlab.com/rendeko/tes3mp-scripts/-/tree/master/simpleRevive","redenko","https://gitlab.com/rendeko/","revive a player"
